@@ -1,0 +1,179 @@
+/*Navbar*/
+#navbar{
+    background-color: #115B7E;
+}
+.nav-link{
+    font-size: 1.2rem;
+}
+
+#fluid{
+    padding: 2% 3%;
+}
+
+.navbar-brand{
+    font-size: 2.0rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 0 0 0.5rem;
+}
+
+.nav-item{
+    padding: 0 10px;
+}
+
+/*Title Section*/
+#title{
+    background-color: #D9EBEF;
+}
+
+#geisel {
+    display: flex;
+    flex-direction: column;
+    border-style: solid;
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container holding the image and the text */
+.container {
+    position: fixed;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  /* Centered text */
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+  }
+
+/*About Section*/
+#about{
+    background-color: #FFFFFF;
+    padding: 0 0 4.5rem;
+    padding-top: 2rem;
+}
+
+#abcd{
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    padding: 3%;
+}
+
+/*Experience Section*/
+#experience{
+    background-color: #D9EBEF;
+    padding: 0 0 4.5rem;
+    padding-top: 2rem;
+}
+
+#abcdStudy{
+    background-color: #FFFFFF;
+    padding: 0 0 4.5rem;
+    padding-top: 2rem;
+}
+
+#colorbrain{
+    margin-left: 60%;
+}
+
+#abcdtwo{
+    padding-left: 10%;
+    margin-left: 20%;
+    width: 20rem;
+}
+
+.left{
+    text-align: right;
+}
+
+#book{
+    margin-left: 60%;
+}
+
+#studyBuddy{
+    background-color: #FFFFFF;
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
+
+#diceGame{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    text-align: right;
+    background-color: #D9EBEF;
+}
+
+#diceGameImage{
+    width: 20rem;
+    margin-right: 10%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #115B7E;
+}
+
+#studyBuddySample{
+    margin-left: 10%;
+    width: 30rem;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #115B7E;
+}
+
+#arch{
+    padding-top: 3%;
+    padding-bottom: 5%;
+    text-align: right;
+    background-color: #D9EBEF;
+}
+
+#archLabs{
+    width: 20rem;
+    margin-right: 10%;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #115B7E;
+}
+
+button {
+    margin: 5% 5% 5% 0;
+    padding: 0.1 0.1 0.1 0.1;
+    text-align: center;
+    font: #845460;
+}
+
+/*Text Types*/
+
+h2{
+    color: #115B7E;
+    font-size: 3rem;
+}
+
+h3{
+    color: #845460;
+    font-size: 2rem;
+}
+
+h4{
+    color: #000000;
+    font-size: 1.5rem;
+}
+
+h5{
+    color: #115B7E;
+    font-size: 2rem;
+}
+
+h6{
+    font-size: 1.2rem;
+    color: #115B7E;
+}
